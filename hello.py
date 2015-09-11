@@ -9,7 +9,7 @@ def hello():
 
 
 
-    return "Hello Everyone!"
+    return "Hello World!"
 
 if __name__ == "__main__":
 
